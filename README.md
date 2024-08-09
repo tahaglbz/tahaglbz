@@ -2,6 +2,10 @@
 <h3 align="center">I am Software Engineering student.I am interested in Mobile Development, Web Development and Java Development</h3>
 
 
+- 🔭 I’m currently working on [stinginess](https://github.com/tahaglbz/Internship_Project)
+
+- 📫 How to reach me **tahaglbz1@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-g%c3%bclbaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-g%c3%bclbaz/" height="30" width="40" /></a>
