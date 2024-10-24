@@ -4,9 +4,9 @@
 <h3 align="center">I am Software Engineering student.I am interested in Mobile Development, Web Development and Java Development</h3>
 
 
-- 🔭 I’m currently working on [stinginess](https://github.com/tahaglbz/Internship_Project)
 
 - 📫 How to reach me **tahaglbz1@gmail.com**
+- MY WEBSITE : https://tahadev-cv.vercel.app/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
