@@ -1,7 +1,7 @@
 ![MasterHead](https://arge.profen.com/wp-content/uploads/2020/10/yazilim-gelistirme-bg.jpg)
 
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">I am Software Engineering student.I am interested in Mobile Development, Web Development and Java Development</h3>
+<h3 align="center">I am Software Engineering student.I am interested in Mobile Development, Web Development and  Machine Learning</h3>
 
 
 
