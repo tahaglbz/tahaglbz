@@ -30,8 +30,7 @@
 🎓 Continuous Learner
 ```
       
-    </td>
-    <td width="50%">
+   
       
 - 📧 Email: tahaglbz1@gmail.com
 - 🌐 Portfolio: [tahadev-cv.vercel.app](https://tahadev-cv.vercel.app)
@@ -46,7 +45,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/taha-gülbaz/" target="_blank">
+  <a href="https://www.linkedin.com/in/taha-gulbaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tahaglbz1@gmail.com" target="_blank">
