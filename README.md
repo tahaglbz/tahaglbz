@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Software Engineering Student | 🚀 Tech Enthusiast
+  💻 Software Engineer | 🚀 Tech Enthusiast
 </h3>
 
 <p align="center">
